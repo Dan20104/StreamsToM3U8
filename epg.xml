@@ -1504,4 +1504,90 @@
     <desc lang="en">Ruthless predators and powerful prey are embroiled in rivalry, betrayal, and battle, in a never-ending crusade for survival, with characters so wild and ambi...</desc>
     <icon src="https://i.ytimg.com/vi/BJ3Yv572V1A/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="1plus1.yt">
+    <display-name lang="en">TV channel 1+1 (UA)</display-name>
+  </channel>
+  <programme channel="1plus1.yt" start="20240620060000 +0100" stop="20240620090000 +0100">
+    <title lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</title>
+    <desc lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</desc>
+    <icon src="https://i.ytimg.com/vi/j5TqaWCCdUg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="1plus1.yt" start="20240620090000 +0100" stop="20240620120000 +0100">
+    <title lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</title>
+    <desc lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</desc>
+    <icon src="https://i.ytimg.com/vi/j5TqaWCCdUg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="1plus1.yt" start="20240620120000 +0100" stop="20240620150000 +0100">
+    <title lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</title>
+    <desc lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</desc>
+    <icon src="https://i.ytimg.com/vi/j5TqaWCCdUg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="1plus1.yt" start="20240620150000 +0100" stop="20240620180000 +0100">
+    <title lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</title>
+    <desc lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</desc>
+    <icon src="https://i.ytimg.com/vi/j5TqaWCCdUg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="1plus1.yt" start="20240620180000 +0100" stop="20240620210000 +0100">
+    <title lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</title>
+    <desc lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</desc>
+    <icon src="https://i.ytimg.com/vi/j5TqaWCCdUg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="1plus1.yt" start="20240620210000 +0100" stop="20240621000000 +0100">
+    <title lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</title>
+    <desc lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</desc>
+    <icon src="https://i.ytimg.com/vi/j5TqaWCCdUg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="1plus1.yt" start="20240621000000 +0100" stop="20240621030000 +0100">
+    <title lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</title>
+    <desc lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</desc>
+    <icon src="https://i.ytimg.com/vi/j5TqaWCCdUg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="1plus1.yt" start="20240621030000 +0100" stop="20240621060000 +0100">
+    <title lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</title>
+    <desc lang="en">Телеканал 1+1 онлайн. Спільний телемарафон #UAразом</desc>
+    <icon src="https://i.ytimg.com/vi/j5TqaWCCdUg/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="KinoDobryak.yt">
+    <display-name lang="en">Svaty</display-name>
+  </channel>
+  <programme channel="KinoDobryak.yt" start="20240620060000 +0100" stop="20240620090000 +0100">
+    <title lang="en">Сериалы Сваты и Байки Митяя - Все серии подряд</title>
+    <desc lang="en">Сериалы Сваты и Байки Митяя - Все серии подрядКино Добряк - канал, на котором вы сможете найти прекрасное тёплое настроение! Лучшие фильмы, комедии, сериалы,...</desc>
+    <icon src="https://i.ytimg.com/vi/MbkMRWvgD8c/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="KinoDobryak.yt" start="20240620090000 +0100" stop="20240620120000 +0100">
+    <title lang="en">Сериалы Сваты и Байки Митяя - Все серии подряд</title>
+    <desc lang="en">Сериалы Сваты и Байки Митяя - Все серии подрядКино Добряк - канал, на котором вы сможете найти прекрасное тёплое настроение! Лучшие фильмы, комедии, сериалы,...</desc>
+    <icon src="https://i.ytimg.com/vi/MbkMRWvgD8c/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="KinoDobryak.yt" start="20240620120000 +0100" stop="20240620150000 +0100">
+    <title lang="en">Сериалы Сваты и Байки Митяя - Все серии подряд</title>
+    <desc lang="en">Сериалы Сваты и Байки Митяя - Все серии подрядКино Добряк - канал, на котором вы сможете найти прекрасное тёплое настроение! Лучшие фильмы, комедии, сериалы,...</desc>
+    <icon src="https://i.ytimg.com/vi/MbkMRWvgD8c/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="KinoDobryak.yt" start="20240620150000 +0100" stop="20240620180000 +0100">
+    <title lang="en">Сериалы Сваты и Байки Митяя - Все серии подряд</title>
+    <desc lang="en">Сериалы Сваты и Байки Митяя - Все серии подрядКино Добряк - канал, на котором вы сможете найти прекрасное тёплое настроение! Лучшие фильмы, комедии, сериалы,...</desc>
+    <icon src="https://i.ytimg.com/vi/MbkMRWvgD8c/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="KinoDobryak.yt" start="20240620180000 +0100" stop="20240620210000 +0100">
+    <title lang="en">Сериалы Сваты и Байки Митяя - Все серии подряд</title>
+    <desc lang="en">Сериалы Сваты и Байки Митяя - Все серии подрядКино Добряк - канал, на котором вы сможете найти прекрасное тёплое настроение! Лучшие фильмы, комедии, сериалы,...</desc>
+    <icon src="https://i.ytimg.com/vi/MbkMRWvgD8c/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="KinoDobryak.yt" start="20240620210000 +0100" stop="20240621000000 +0100">
+    <title lang="en">Сериалы Сваты и Байки Митяя - Все серии подряд</title>
+    <desc lang="en">Сериалы Сваты и Байки Митяя - Все серии подрядКино Добряк - канал, на котором вы сможете найти прекрасное тёплое настроение! Лучшие фильмы, комедии, сериалы,...</desc>
+    <icon src="https://i.ytimg.com/vi/MbkMRWvgD8c/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="KinoDobryak.yt" start="20240621000000 +0100" stop="20240621030000 +0100">
+    <title lang="en">Сериалы Сваты и Байки Митяя - Все серии подряд</title>
+    <desc lang="en">Сериалы Сваты и Байки Митяя - Все серии подрядКино Добряк - канал, на котором вы сможете найти прекрасное тёплое настроение! Лучшие фильмы, комедии, сериалы,...</desc>
+    <icon src="https://i.ytimg.com/vi/MbkMRWvgD8c/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="KinoDobryak.yt" start="20240621030000 +0100" stop="20240621060000 +0100">
+    <title lang="en">Сериалы Сваты и Байки Митяя - Все серии подряд</title>
+    <desc lang="en">Сериалы Сваты и Байки Митяя - Все серии подрядКино Добряк - канал, на котором вы сможете найти прекрасное тёплое настроение! Лучшие фильмы, комедии, сериалы,...</desc>
+    <icon src="https://i.ytimg.com/vi/MbkMRWvgD8c/maxresdefault_live.jpg"/>
+  </programme>
 </tv>
