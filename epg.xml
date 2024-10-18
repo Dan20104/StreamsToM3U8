@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="LittleSoul.yt">
+    <display-name lang="en">Little Soul: Music to put you in a better mood</display-name>
+  </channel>
+  <programme channel="LittleSoul.yt" start="20241018120000 +0100" stop="20241018150000 +0100">
+    <title lang="en">Music to put you in a better mood ~ Study music - lofi / relax / stress relief</title>
+    <desc lang="en">🌿 Music provided by Dreamhop Music: https://spoti.fi/3fNpOgA🎶 Studies show that students are in better mood while studying while music is playing in the ba...</desc>
+    <icon src="https://i.ytimg.com/vi/XstikgbeTPI/maxresdefault.jpg?v=63da31eb"/>
+  </programme>
+  <programme channel="LittleSoul.yt" start="20241018150000 +0100" stop="20241018180000 +0100">
+    <title lang="en">Music to put you in a better mood ~ Study music - lofi / relax / stress relief</title>
+    <desc lang="en">🌿 Music provided by Dreamhop Music: https://spoti.fi/3fNpOgA🎶 Studies show that students are in better mood while studying while music is playing in the ba...</desc>
+    <icon src="https://i.ytimg.com/vi/XstikgbeTPI/maxresdefault.jpg?v=63da31eb"/>
+  </programme>
+  <programme channel="LittleSoul.yt" start="20241018180000 +0100" stop="20241018210000 +0100">
+    <title lang="en">Music to put you in a better mood ~ Study music - lofi / relax / stress relief</title>
+    <desc lang="en">🌿 Music provided by Dreamhop Music: https://spoti.fi/3fNpOgA🎶 Studies show that students are in better mood while studying while music is playing in the ba...</desc>
+    <icon src="https://i.ytimg.com/vi/XstikgbeTPI/maxresdefault.jpg?v=63da31eb"/>
+  </programme>
+  <programme channel="LittleSoul.yt" start="20241018210000 +0100" stop="20241019000000 +0100">
+    <title lang="en">Music to put you in a better mood ~ Study music - lofi / relax / stress relief</title>
+    <desc lang="en">🌿 Music provided by Dreamhop Music: https://spoti.fi/3fNpOgA🎶 Studies show that students are in better mood while studying while music is playing in the ba...</desc>
+    <icon src="https://i.ytimg.com/vi/XstikgbeTPI/maxresdefault.jpg?v=63da31eb"/>
+  </programme>
+  <programme channel="LittleSoul.yt" start="20241019000000 +0100" stop="20241019030000 +0100">
+    <title lang="en">Music to put you in a better mood ~ Study music - lofi / relax / stress relief</title>
+    <desc lang="en">🌿 Music provided by Dreamhop Music: https://spoti.fi/3fNpOgA🎶 Studies show that students are in better mood while studying while music is playing in the ba...</desc>
+    <icon src="https://i.ytimg.com/vi/XstikgbeTPI/maxresdefault.jpg?v=63da31eb"/>
+  </programme>
+  <programme channel="LittleSoul.yt" start="20241019030000 +0100" stop="20241019060000 +0100">
+    <title lang="en">Music to put you in a better mood ~ Study music - lofi / relax / stress relief</title>
+    <desc lang="en">🌿 Music provided by Dreamhop Music: https://spoti.fi/3fNpOgA🎶 Studies show that students are in better mood while studying while music is playing in the ba...</desc>
+    <icon src="https://i.ytimg.com/vi/XstikgbeTPI/maxresdefault.jpg?v=63da31eb"/>
+  </programme>
+  <programme channel="LittleSoul.yt" start="20241019060000 +0100" stop="20241019090000 +0100">
+    <title lang="en">Music to put you in a better mood ~ Study music - lofi / relax / stress relief</title>
+    <desc lang="en">🌿 Music provided by Dreamhop Music: https://spoti.fi/3fNpOgA🎶 Studies show that students are in better mood while studying while music is playing in the ba...</desc>
+    <icon src="https://i.ytimg.com/vi/XstikgbeTPI/maxresdefault.jpg?v=63da31eb"/>
+  </programme>
+  <programme channel="LittleSoul.yt" start="20241019090000 +0100" stop="20241019120000 +0100">
+    <title lang="en">Music to put you in a better mood ~ Study music - lofi / relax / stress relief</title>
+    <desc lang="en">🌿 Music provided by Dreamhop Music: https://spoti.fi/3fNpOgA🎶 Studies show that students are in better mood while studying while music is playing in the ba...</desc>
+    <icon src="https://i.ytimg.com/vi/XstikgbeTPI/maxresdefault.jpg?v=63da31eb"/>
+  </programme>
+</tv>
