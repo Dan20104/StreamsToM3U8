@@ -1,1 +1,88 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="NDTV.yt">
+    <display-name lang="en">NDTV 24x7</display-name>
+  </channel>
+  <programme channel="NDTV.yt" start="20241020120000 +0100" stop="20241020150000 +0100">
+    <title lang="en">NDTV 24x7 Live TV: Lawrence Bishnoi | Hamas Chief | Yahya Sinwar | Bahraich News | Salman Khan</title>
+    <desc lang="en">Elections for 288 assembly seats of Maharashtra will be held on November 20. The counting of votes will take place three days later, the Election Commission ...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <programme channel="NDTV.yt" start="20241020150000 +0100" stop="20241020180000 +0100">
+    <title lang="en">NDTV 24x7 Live TV: Lawrence Bishnoi | Hamas Chief | Yahya Sinwar | Bahraich News | Salman Khan</title>
+    <desc lang="en">Elections for 288 assembly seats of Maharashtra will be held on November 20. The counting of votes will take place three days later, the Election Commission ...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <programme channel="NDTV.yt" start="20241020180000 +0100" stop="20241020210000 +0100">
+    <title lang="en">NDTV 24x7 Live TV: Lawrence Bishnoi | Hamas Chief | Yahya Sinwar | Bahraich News | Salman Khan</title>
+    <desc lang="en">Elections for 288 assembly seats of Maharashtra will be held on November 20. The counting of votes will take place three days later, the Election Commission ...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <programme channel="NDTV.yt" start="20241020210000 +0100" stop="20241021000000 +0100">
+    <title lang="en">NDTV 24x7 Live TV: Lawrence Bishnoi | Hamas Chief | Yahya Sinwar | Bahraich News | Salman Khan</title>
+    <desc lang="en">Elections for 288 assembly seats of Maharashtra will be held on November 20. The counting of votes will take place three days later, the Election Commission ...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <programme channel="NDTV.yt" start="20241021000000 +0100" stop="20241021030000 +0100">
+    <title lang="en">NDTV 24x7 Live TV: Lawrence Bishnoi | Hamas Chief | Yahya Sinwar | Bahraich News | Salman Khan</title>
+    <desc lang="en">Elections for 288 assembly seats of Maharashtra will be held on November 20. The counting of votes will take place three days later, the Election Commission ...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <programme channel="NDTV.yt" start="20241021030000 +0100" stop="20241021060000 +0100">
+    <title lang="en">NDTV 24x7 Live TV: Lawrence Bishnoi | Hamas Chief | Yahya Sinwar | Bahraich News | Salman Khan</title>
+    <desc lang="en">Elections for 288 assembly seats of Maharashtra will be held on November 20. The counting of votes will take place three days later, the Election Commission ...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <programme channel="NDTV.yt" start="20241021060000 +0100" stop="20241021090000 +0100">
+    <title lang="en">NDTV 24x7 Live TV: Lawrence Bishnoi | Hamas Chief | Yahya Sinwar | Bahraich News | Salman Khan</title>
+    <desc lang="en">Elections for 288 assembly seats of Maharashtra will be held on November 20. The counting of votes will take place three days later, the Election Commission ...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <programme channel="NDTV.yt" start="20241021090000 +0100" stop="20241021120000 +0100">
+    <title lang="en">NDTV 24x7 Live TV: Lawrence Bishnoi | Hamas Chief | Yahya Sinwar | Bahraich News | Salman Khan</title>
+    <desc lang="en">Elections for 288 assembly seats of Maharashtra will be held on November 20. The counting of votes will take place three days later, the Election Commission ...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <channel id="ArirangRadio.yt">
+    <display-name lang="en">Arirang Radio</display-name>
+  </channel>
+  <programme channel="ArirangRadio.yt" start="20241020120000 +0100" stop="20241020150000 +0100">
+    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
+    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
+    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=4ad7"/>
+  </programme>
+  <programme channel="ArirangRadio.yt" start="20241020150000 +0100" stop="20241020180000 +0100">
+    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
+    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
+    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=4ad7"/>
+  </programme>
+  <programme channel="ArirangRadio.yt" start="20241020180000 +0100" stop="20241020210000 +0100">
+    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
+    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
+    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=4ad7"/>
+  </programme>
+  <programme channel="ArirangRadio.yt" start="20241020210000 +0100" stop="20241021000000 +0100">
+    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
+    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
+    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=4ad7"/>
+  </programme>
+  <programme channel="ArirangRadio.yt" start="20241021000000 +0100" stop="20241021030000 +0100">
+    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
+    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
+    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=4ad7"/>
+  </programme>
+  <programme channel="ArirangRadio.yt" start="20241021030000 +0100" stop="20241021060000 +0100">
+    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
+    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
+    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=4ad7"/>
+  </programme>
+  <programme channel="ArirangRadio.yt" start="20241021060000 +0100" stop="20241021090000 +0100">
+    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
+    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
+    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=4ad7"/>
+  </programme>
+  <programme channel="ArirangRadio.yt" start="20241021090000 +0100" stop="20241021120000 +0100">
+    <title lang="en">[On-Air] Arirang Radio (아리랑 라디오) | Livestream 24/7 (HD)</title>
+    <desc lang="en">Arirang Radio is the first English broadcasting radio station in Korea. We broadcast a variety of Korean culture including K-Pop music as well as news and us...</desc>
+    <icon src="https://i.ytimg.com/vi/P1fX2GGdVS0/maxresdefault.jpg?v=4ad7"/>
+  </programme>
+</tv>
