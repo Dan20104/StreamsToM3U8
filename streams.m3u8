@@ -43,7 +43,7 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="NDTV.yt" tvg-name="NDTV 24x7" group-title="News", NDTV 24x7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729448564/ei/FPYUZ4erMuShlu8PkqiT0Q0/ip/172.183.51.114/id/sr2Ry9JVDtU.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxWWph7d8p4SdFkdnIxQxyKl77Q5lwBRrhoZyjfIVmSp3KqWjtl0_XDwuOJo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMI9_A_yQwWojKz7GAzebokgYal5lnOCMqoJpgUOZUO-AiADah_MtcIlFvbm69_vcKq-MMkfsYaREM1qYaIogqTh4Q%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="SABCNews.yt" tvg-name="SABC News" group-title="News", SABC News
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
@@ -106,7 +106,7 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="ArirangRadio.yt" tvg-name="Arirang Radio" group-title="Radio", Arirang Radio
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729448575/ei/H_YUZ_uxCbucir4Pj7e3oQ4/ip/172.183.51.114/id/P1fX2GGdVS0.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54Mbxc_ICpcsKEpiJsBWrSd9J4tqrBqK3s1N6yUuxJxQKRpQWZYIbOSGO9H3VJE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM5-9db0CUYowmXzz8YllEcVWWyGCMeZEVVP_urZY7MRAiBXCE-UwQSl3Nup7IT5MIDtjNM6CsK7cKVaJkikNWCgdA%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="TBS1013.yt" tvg-name="TBS Korea eFM 101.3" group-title="Radio", TBS Korea eFM 101.3
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
