@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="UnitedNations.yt">
+    <display-name lang="en">United Nations Live</display-name>
+  </channel>
+  <programme channel="UnitedNations.yt" start="20250118180000 +0000" stop="20250118210000 +0000">
+    <title lang="en">United Nations - LIVE</title>
+    <desc lang="en">UNTV Channel program ------------------------The UNTV Channel is available 24 hours a day with selected live programming of United Nations meetings and event...</desc>
+    <icon src="https://i.ytimg.com/vi/wfAa1GiNdgM/maxresdefault.jpg?v=6403083b"/>
+  </programme>
+  <programme channel="UnitedNations.yt" start="20250118210000 +0000" stop="20250119000000 +0000">
+    <title lang="en">United Nations - LIVE</title>
+    <desc lang="en">UNTV Channel program ------------------------The UNTV Channel is available 24 hours a day with selected live programming of United Nations meetings and event...</desc>
+    <icon src="https://i.ytimg.com/vi/wfAa1GiNdgM/maxresdefault.jpg?v=6403083b"/>
+  </programme>
+  <programme channel="UnitedNations.yt" start="20250119000000 +0000" stop="20250119030000 +0000">
+    <title lang="en">United Nations - LIVE</title>
+    <desc lang="en">UNTV Channel program ------------------------The UNTV Channel is available 24 hours a day with selected live programming of United Nations meetings and event...</desc>
+    <icon src="https://i.ytimg.com/vi/wfAa1GiNdgM/maxresdefault.jpg?v=6403083b"/>
+  </programme>
+  <programme channel="UnitedNations.yt" start="20250119030000 +0000" stop="20250119060000 +0000">
+    <title lang="en">United Nations - LIVE</title>
+    <desc lang="en">UNTV Channel program ------------------------The UNTV Channel is available 24 hours a day with selected live programming of United Nations meetings and event...</desc>
+    <icon src="https://i.ytimg.com/vi/wfAa1GiNdgM/maxresdefault.jpg?v=6403083b"/>
+  </programme>
+  <programme channel="UnitedNations.yt" start="20250119060000 +0000" stop="20250119090000 +0000">
+    <title lang="en">United Nations - LIVE</title>
+    <desc lang="en">UNTV Channel program ------------------------The UNTV Channel is available 24 hours a day with selected live programming of United Nations meetings and event...</desc>
+    <icon src="https://i.ytimg.com/vi/wfAa1GiNdgM/maxresdefault.jpg?v=6403083b"/>
+  </programme>
+  <programme channel="UnitedNations.yt" start="20250119090000 +0000" stop="20250119120000 +0000">
+    <title lang="en">United Nations - LIVE</title>
+    <desc lang="en">UNTV Channel program ------------------------The UNTV Channel is available 24 hours a day with selected live programming of United Nations meetings and event...</desc>
+    <icon src="https://i.ytimg.com/vi/wfAa1GiNdgM/maxresdefault.jpg?v=6403083b"/>
+  </programme>
+  <programme channel="UnitedNations.yt" start="20250119120000 +0000" stop="20250119150000 +0000">
+    <title lang="en">United Nations - LIVE</title>
+    <desc lang="en">UNTV Channel program ------------------------The UNTV Channel is available 24 hours a day with selected live programming of United Nations meetings and event...</desc>
+    <icon src="https://i.ytimg.com/vi/wfAa1GiNdgM/maxresdefault.jpg?v=6403083b"/>
+  </programme>
+  <programme channel="UnitedNations.yt" start="20250119150000 +0000" stop="20250119180000 +0000">
+    <title lang="en">United Nations - LIVE</title>
+    <desc lang="en">UNTV Channel program ------------------------The UNTV Channel is available 24 hours a day with selected live programming of United Nations meetings and event...</desc>
+    <icon src="https://i.ytimg.com/vi/wfAa1GiNdgM/maxresdefault.jpg?v=6403083b"/>
+  </programme>
+</tv>
